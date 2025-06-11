@@ -6,8 +6,6 @@ A Flutter plugin to set display mode in Android.
 This is useful to enable high refresh rate in devices with discrete framerates like 60Hz, 90Hz etc. 
 This library is ineffective on devices with LTPO panels and iOS devices with ProMotion.
 
-This library should be used as a temporary fix to [#35162](https://github.com/flutter/flutter/issues/35162) until this API gets added to Flutter engine itself.
-
 ## Getting Started
 
 Add library to pubspec then and **rebuild** your app:

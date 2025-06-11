@@ -52,9 +52,10 @@ packages:
   display_mode:
     dependency: "direct main"
     description:
-      path: ".."
-      relative: true
-    source: path
+      name: display_mode
+      sha256: f725b33cfda0b90bf69a12008f4aca203e1af1e4843a6c1b26bf21cf52ee33aa
+      url: "https://pub.dev"
+    source: hosted
     version: "0.0.1"
   fake_async:
     dependency: transitive
